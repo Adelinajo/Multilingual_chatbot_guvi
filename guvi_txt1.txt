@@ -1,0 +1,613 @@
+GUVI means Grab Your Vernacular Imprint Geek Network Private Limited is a leading online learning and skills development company, incubated by IIT Madras and IIM Ahmedabad. Established in 2014 and acquired by the HCL Group in 2022, GUVI is dedicated to providing effective and high-quality learning and skilling programs that transcend language barriers in technology education. GUVI today is trusted by over 3 million learners and 2000+ corporate partners.
+
+History: GUVI was started as a YouTube channel in 2011. Arun Prakash was the first graduate in his family. The 33 year old completed his B.Tech from Sethu Institute of Technology, Virudhunagar, Tamil Nadu. As his family could not afford it, he did not own a computer and brushed up his technical skills by writing programmes on paper and running them on computers at an internet café. His professional journey for the next 13 years went off well with stints at Honeywell-Aerospace, KLA-Tencor and Kalido. Then in 2011, Arun, his wife Sridevi (32) and his friend S.P. Balamurugan (32) conceptualised the idea of GUVI. At that time, they were all working together at PayPal and decided to quit to dedicate more time to GUVI.  Chennai based GUVI provides a platform to connect budding technologists with industry experts and bridges the skill gap needed in IT companies, by sharing their technical learning as courses in vernacular languages and through a personalised mentorship programme. The channel posted video tutorials, courses, and practice materials created by Arun Prakash, Sridevi Arun Prakash, and SP Balamurugan. Co-founder Sridevi Arun Prakash died on 20 September 2020 due to Breathing problem.
+
+On the startup's beginnings: Arun says, GUVI started as a volunteering activity when we were working at PayPal in 2011. We started off with videos explaining technical jargon in native languages like Tamil, Telugu, Hindi, Bengali and Kannada. We got amazing feedback from learners not only from India but across the globe like UK, Canada, Germany, France, US, Singapore.” The trio started GUVI with a seed capital of Rs 10 lakh until GUVI was incubated by IITM’s RTBI, an online mentoring or learning platform, focussed on IT-based technical learning in vernacular languages. The startup was then rewarded with a seed fund of Rs. five lakh. GUVI was officially launched in November 2014 and its YouTube channel has gained more than one million views and has more than 5,000 subscribers. Balamurugan holds MCA and MBA from Anna University. Before starting GUVI, he was a technologist at PayPal. Sridevi did her BE in CS from SASTRA University and her career at Honeywell-Aerospace was followed by stints at TCS and PayPal. Customer-acquisition phase GUVI acquired its first paid customer through YouTube. He was from UK and wanted mentorship to learn design patterns in Java. Each course by GUVI is a blend of video lectures that focus on context-based learning, short notes, coding playground, assignment and assessment. The video lectures are in vernacular languages, while the text contents are in English. The platform allows users the option to choose the language of his/her choice.
+
+Passion: An unwavering passion to bring tech closer to learners from all walks of life. We get fueled on the idea of driving innovation while revolutionizing tech learning by turning language into a medium from a barrier.
+
+Team Work: We are proud members of a technically steered and uplifting team that comes together to create a difference in the lives of millions of tech learners. It takes an idea to start, it takes a team to build all things phenomenal.
+
+Creativity: The need to be creative to make learning intriguing and comprehensible is a major pillar of GUVI's functioning. We love bringing creative solutions to life to serve uniqueness and unparalleled experience to our learners.
+
+Simplicity: A simple idea can change the world. We stick to that simplicity to achieve the biggest of goals. At GUVI, we believe in simplifying tech and its concepts which we use to build transformational courses for everyone.
+
+Customer Focus: At GUVI, our prime priority is to serve the users and fulfill their needs without compromising on quality. We want our products to provide exceptional value and reflect the learner's interest at the heart of curation.
+
+NDTV about GUVI: IIT Madras' Startup Becomes A ‘Google For Education’ PartnerIIT Madras' GUVI (Grab Ur Vernacular Imprint) has partnered with Google for the 'Google for Education' programme.Indian Institute of Technology Madras and Indian Institute of Management Ahmedabad incubated startup- GUVI (Grab Ur Vernacular Imprint) has partnered with Google for the 'Google for Education' programme. This initiative aims at enhancing the users' learning experience, especially in Tier 2 and Tier 3 cities in India. The initiative is designed in a way that enables students, early professionals and technological aspirants, to learn programming, IT and software skills in the comfort of their mother-tongue.
+
+History: The videos were posted in Tamil, Telugu, and Marathi, with the goal of reaching people not fluent in English. The trio quit their job in 2014 and started GUVI as a company. Seeded with an initial capital of ₹1,000,000, the start-up was incubated at the Rural Technology and Business Incubator based out of IIT Madras. The start-up raised seed funding of ₹500,000, and officially launched in November 2014.
+
+Fund: GUVI received its first institutional round of funding of ₹10,000,000, from US-based Gray Matters Capital's edLABS in April 2019. It raised ₹60,000,000 in its pre-series A round of funding from Education Catalyst Fund, an education-focused venture capital fund managed by CBA Capital, in April 2020.
+
+Events: GUVI conducted All India Robotic Process Automation Skillathon, with UiPath, in June 2020, to provide students an opportunity to get exposure to robotic process automation The event included over 400 colleges across India and over 60,000 participants.
+
+Recognition and awards: GUVI was supported by Google's Launchpad Accelerator Program in 2017.GUVI's free courses come with globally recognized certificates from top institutions like IIT-Madras. These free courses are the best choice for beginners, students, freshers, or professionals looking to gain a new skill at their own pace, without spending anything.
+
+Employee Rating: GUVI has an employee rating of 3.7 out of 5 stars, based on 153 company reviews on Glassdoor which indicates that most employees have a good working experience there. The GUVI employee rating is in line with the average for employers within the Education industry.
+
+Is Certificate valid : Yes they are valid! Apart from the certificates you gain through the courses there is a module called Codekata that can actually drive you through hiring opportunities. Learn to code in your native language.
+
+Review in DevOps: I joined the DevOps engineering course in Guvi. I am fresher, and I have a little bit of fear in understanding the concept, but my mentor, in guvi, has taught the concept clearly by using a well-structured ppt, and he provided practical classes on the topics. Because of this, I understand the theory and practicals of different DevOps tools. In my dashboard, the class recording is also available, which helps me to recap the topics if we have any doubts.
+
+Review in Digital Marketing: 4 months of journey of my life one step ahead what I was in past and I leaned lot of new term of words in digital marketing. Thankyou so much for better career journey in my life.
+
+Review in Testing: Java Selenium course on GUVI was well-structured and highly informative. The instructors explained complex concepts clearly with practical examples. Our coordinator Rekha was very supportive in clarifying doubts about the course structure and consistently followed up on tasks and next steps. Overall, it's a great course for anyone starting in test automation.
+
+Review in UI/UX: Joined Guvi's UI/UX course and gained valuable industry knowledge through their well-structured course material, experienced mentors, and hands-on practice sessions. The mentors are supportive and come from strong professional backgrounds. However, I found the doubt-clearing sessions less effective, and there is limited personalized support and no live project exposure. Certification has been delayed, and there’s no placement assistance. I'm currently seeking job opportunities—if anyone can refer me, I’d truly appreciate it. Enrolling in the UI/UX Design course at Guvi was a remarkable experience that enhanced my skills and knowledge in the field. The mentor's teaching method was clear, engaging, and easy to grasp, making the learning process enjoyable. Their commitment to promptly resolving my doubts was commendable, and Guvi's dedication to offering an exceptional learning experience has equipped me for future career challenges. I am delighted to be a part of the Guvi Platform. The last sep 24 I was joined Advanced digital marketing in GUVI zen in native language. Especially mentor vallapakumar sir he gives lot of experience what is he had with simple way of learning and friendliness. The other coordinators assist the all queries immediately and what if they possibly.
+
+Review in Data Science: I have completed the course of Data Science and Machine Learning from guvi which was very helpful in learning basics of Python Programming, Data Science and Machine Learning concepts. It helped me in data analysis in my current carrier field and enhanced me in writing the effective SQL queries as well. Anyone with no expertise in programming can join this course and the mentors will help them in learning the concepts from the basics. So that any non- technical background person can learn these concepts very easily. So overall it was a great experience to learn this course at Guvi. Also, I look forward for more such experiences in future as well. Thank you Guvi team for providing such an opportunity to me.The Data science course was so good the topics was well structured. I have learned programming, algorithms, databases and machine learning concepts.The Course was really helpful in understand the basic knowledge about Data science. Now it's in our hands. I like the intension of the course but time is too short as I am working professional. my good luck is I got a job In a software company.
+
+Review in DevOps: I joined Devops master program in Guvi. I liked their syllabus which covers maximum industry needed devops tools. In the preboot session we try to analyze the syllabus framed by Guvi and the basic structure of Devops .  The daily tasks and assessment help us to be on the track of sessions.  The video recording  is very useful to revise topics and clear doubts using a query in zen portal.  Yasmin is our mentor. She teaches slowly and whenever we ask doubts she clears us by explaining with realtime examples in an organized manner. The placement process team also provides us mock interviews , resume building session weekly assessment and Informing us about Job requirements and guiding for the process . Thankyou Guvi for such good resource sharing.
+
+Review in JavaScript: I am learning from GUVI since 6 months and have done many courses till date and according to me JavaScript is a well-delivered course where a noob/beginner can start his journey in JavaScript due to it's course content and well explanatory modules.GUVI hold's a special place in my career journey. At the outset i had concern's about the culture, fitting in ,and being valued as a newcomer. However GUVI surpassed my expectations in more ways than one. I have always felt encouraged to voice me opinions , share ideas, and contribute to meaningful projects. Overall i am grateful for the opportunities and experiences that GUVI has provided me with and i look forward to continuing to be a part of this inspiring journey.
+
+Certificate: You can earn certificate upon course completion.
+
+Review in FullStack Developer: I have joined with no coding knowledge in Zen Class. But I have learned Full stack developer course. After my course completion I have attend lot of company's for myself. Lot of company give the technical task I have completed the task for fullstack and I have placed two company for whatever I have learned GUVI it helps me more and finally I get a good offer for Marvel Group for our placement team.
+
+
+Training: GUVI focuses on hands-on learning, where students can apply theoretical knowledge through practical exercises and real-world projects. This approach helps in solidifying concepts and gaining practical experience. From basic programming languages like Python, Java, and C++ to advanced topics like data science, machine learning, and full-stack development, GUVI covers a broad spectrum of subjects. This allows learners to pick and choose courses that best fit their career goals.It's good the team is always really helpful and very supportive, doubt clearance is way better, the practice in codekata is also good.
+
+GUVI Zen Live Classes: Zen Class is one of the industry's leading Project Based Career Programs offered by GUVI that promises 100% Job Placement Support on completing the course.
+
+Usefulness: Regarding the usefulness of GUVI's courses, they offer a range of tech training programs covering topics such as full stack development, Java development, UI/UX design, business analytics & digital marketing, and data engineering. These courses aim to equip students with the necessary skills and knowledge to pursue careers in these fields. GUVI also provides access to practice platforms to help students enhance their skills.
+
+Course Curriculum: To get a better understanding of the quality and effectiveness of GUVI's courses, it would be beneficial to consider the following:
+GUVI offered free online coding courses in March 2020.Evaluate the course curriculum to ensure it covers relevant and up-to-date topics in the respective field.
+
+Mentor Support: GUVI's mentors play a crucial role in guiding and supporting students throughout the course. Look for feedback or reviews regarding the mentorship provided by GUVI.
+
+Project Portfolio: GUVI offers students the opportunity to build a portfolio of projects, which can be valuable when showcasing skills to potential employers. Consider the quality and diversity of the projects offered.
+
+Pre-Bootcamp Training: GUVI conducts a pre-bootcamp training phase to assess students' skills and determine program placement. This can be an indicator of their commitment to ensuring students are placed in the appropriate course level.
+
+Account Information and Service Access: The GUVI service is not available to persons under the age of thirteen or to any Users or Candidates suspended or removed from the GUVI service by GUVI. By using the GUVI service, you represent and warrant that you are at least thirteen years of age and that you are of legal age to form a binding contract and are not a person barred from receiving services under the laws of India or other applicable jurisdiction.
+GUVI reserves the right to refuse registration of, or cancel, any account or access to the GUVI services by any User or Candidate in its reasonable discretion, at any time.
+
+How to access Guvi Website: GUVI accounts will be accessed through a User ID and password that you will create. Your Credentials are solely for your use and must not be shared with other Users. All Users need to have their own account, User ID and Credentials. You agree that your Credentials and information you provide upon registration and at all other times will be true, accurate, current, and complete. You are responsible for maintaining the confidentiality of your account password, and for all activities that occur under your account. You agree to immediately notify GUVI of any unauthorized use of your account, password, Credentials, or any other breach of security. You agree that GUVI will not be liable for any loss or damage arising from your failure to provide us with accurate information or to keep your password secure. Candidates shall access the Interview services when a User invites an individual, via email, to take a technical programming test . The Candidate will be provided login credentials to access Challenge. Following completion of the Challenge the Candidate’s access to the GUVI services shall terminate. By participating in any GUVI promotional event or giving assent to any activity that requires an account on GUVI, your account will be automatically created. Except as expressly permitted by GUVI, you agree that the GUVI services are to be accessed only for you or your company’s own internal business purposes and not for resale or unauthorized distribution to any third party.
+
+Cookie Policy: GUVI neither store cookies nor use them for tracking user behavior anonymously. Cookies are only used to provide single sign on in QA platforms for better user experience. Cookies are generated only for the registered users. The cookies generated are not shared or distributed to any partners or third parties, they solely serve the purpose of maintaining sessions within our platform. Information such as user behavior, interests, etc are neither stored nor used for any sort of commercial activities.
+
+Grant of license to GUVI: By using the GUVI service, you are granting GUVI a non-exclusive, worldwide, royalty-free, fully paid-up, sublicensable, irrevocable and transferable right and license to use, host, store, reproduce, create derivative works of, distribute, modify, display, and communicate your Content on and through the GUVI service. If you post Content on or through the GUVI service, you represent and warrant that you have the right to post that Content and to grant the above rights to GUVI, so ensure that you have the necessary rights to grant GUVI this license for any Content you submit or post to the GUVI service. This license that you grant GUVI is for the limited purpose of operating, promoting, marketing, improving and developing GUVI products and services. This license continues even if you terminate your account and/or stop using the GUVI service. GUVI acknowledges that it will not acquire any other rights in any Content that you may upload or post to the GUVI service.
+
+Use of Content: You understand that by posting your Content that you are responsible for your Content and any Content that you create, transmit or display while using the GUVI services and for any consequences thereof. You further agree that under no circumstances shall GUVI be liable for the errors or omissions of another User or Candidate who views your Content. Therefore, you represent and agree to all of the following and acknowledge that GUVI is explicitly relying on such representations and agreement with regard to your Content and use of Content made available on the GUVI service The Content represents your own original work and/or you have all necessary rights to disclose the Content. In doing so, you are not violating the rights of any third party and you know of no other individual or entity whose rights will be infringed or violated by the Content being viewed and used as described in these Terms of Service. You agree to use GUVI services only for purposes that are legal, proper and in accordance with these Terms of Service. Your disclosure of your Content does not violate a confidential relationship with any third party or establish a confidential relationship with GUVI. You understand that you are responsible for your Content that you upload, post, e-mail, transmit, or otherwise make available through the GUVI service. Except as permitted in these Terms of Service, you do not have the rights to use, reproduce, create derivative works of, distribute, publicly perform or publicly display any Content that does not belong to you, other than viewing of Content or the associated Challenge reports on or through the GUVI service.The GUVI service provides certain features, which enables Users and Candidates to submit, post, and share data, text, software, graphics, messages or other material on the GUVI service. Content that Users or Candidates submit, post or share is subject to the terms and conditions of these Terms of Service. Content that you own and post on or through the GUVI service belongs to you and you may use it in any way, except as prohibited by applicable state and federal law or regulations. By using the GUVI service, you are granting GUVI and certain third parties permission to use Content as described in these Terms of Service.
+
+GUVI Share Your Data With: We share certain data about you with instructors, other students, companies performing services for us, our business partners, analytics and data enrichment providers, your social media providers, companies helping us run promotions and surveys, and advertising companies who help us promote our Services. We may also share your data as needed for security, legal compliance, or as part of a corporate restructuring. Lastly, we can share data in other ways such as third parties to provide support throughout the platform such as payment and forum as of now. When you voluntarily send us an electronic mail, we will keep a record of this information so that we can respond to you. We only collect information from you when you register on our site or fill out a form. Also, when filling out a form on our site, you may be asked to enter your name, e-mail address or phone number. You may, however, visit our site anonymously. In case you have submitted your personal information and contact details, we reserve the rights to Call, SMS, Email or WhatsApp about our products and offers, even if your number has DND activated on it. The list of third parties may be added at any point of time.
+
+Your Rights: You have certain rights around the use of your data, including the ability to opt out of promotional emails, cookies, and collection of your data by certain third parties. You can update or terminate your account from within our Services, and can also contact us for individual rights requests about your personal data.
+
+Accuracy of Content: GUVI cannot and need not control all Content posted by Candidates or Users on or through the GUVI service, and it does not guarantee the accuracy, integrity or quality of such Content. You agree that under no circumstances will GUVI be liable in any way for any Content, including any errors or omissions in any Content, or any loss or damage of any kind incurred as a result of your use of any Content. You understand that you must evaluate and bear all risks associated with the use of any Content, including any reliance on the Content, integrity, and accuracy of such Content. GUVI does not endorse and is not responsible for the accuracy, usefulness, safety or relating to Content. YOU AGREE TO WAIVE, AND HEREBY DO WAIVE, ANY LEGAL OR EQUITABLE RIGHTS OR REMEDIES YOU HAVE OR MAY HAVE AGAINST GUVI WITH RESPECT THERETO.
+
+Right to Remove or Edit User Content:GUVI reserves the right, in its reasonable discretion, to refuse to allow any Content through the GUVI services, or to edit or remove any Content at any time with or without notice. Without limiting the generality of the preceding sentence, GUVI complies with the Digital Millennium Copyright Act, and will remove Content upon receipt of a compliant takedown notice. User and Candidate Representations and Warranties. You are solely responsible for your own Content and the consequences of posting or publishing it. In connection with your Content, you affirm, represent, and warrant that: (i) you own, or have the necessary licenses, rights, consents, and permissions to use and authorize GUVI to use all patent, trademark, copyright, or other proprietary rights in and to your Content to enable inclusion and use of your Content in the manner contemplated by GUVI and these Terms of Service, and to grant the rights and license set forth above, and (ii) your Content, GUVI use of such User submissions pursuant to these Terms of Service, and exercise of the license rights set forth above, do not and will not: (a) infringe, violate, or misappropriate any third party right, including any copyright, trademark, patent, trade secret, moral right, Privacy Right, right of publicity, or any other intellectual property or proprietary right; (b) slander, defame, libel, or invade the right of privacy, publicity, or other property rights of any other person; (c) violate any applicable law or regulation; or (d) require obtaining a license from or paying fees or royalties to any third party for the exercise of any rights granted in these Terms of Service, including, by way of example and not limitation, the payment of any royalties to any copyright owners, including any royalties to any agency, collection society, or other entity that administers such rights on behalf of others.
+
+Feedback: If you provide GUVI with any comments, bug reports, feedback, or modifications proposed or suggested by you on the GUVI services, GUVI shall have the right to use such Feedback at its discretion, including, but not limited to the incorporation of such suggested changes into the GUVI service. You hereby grant GUVI a perpetual, irrevocable, non-exclusive license under all rights necessary to incorporate and use your Feedback for any purpose.
+Welcome to GUVI website registered under the name of GUVI GEEK Network Pvt limited. IITM's Rural Technology and Business Incubator (RTBI) Module #6, I Floor IITM Research Park, Kanagam Road, Taramani, Chennai - 600113. By using GUVI products, software-enabled developer recruitment platform services, or services ("GUVI services"), you agree to the following terms and conditions, and any privacy policies, legal notices, or other applicable policies and guidelines that may be presented to you from time to time. Please read the Terms of Service carefully. If you do not want to agree to these Terms of Service, you must not access the GUVI services.
+
+Acceptance of the GUVI Terms of Service: Your access to the GUVI services is subject to these Terms of Service. GUVI reserves the right to update and change these Terms of Service from time to time without notice or acceptance by you although if we decide to materially change all or part of the GUVI Terms of Service we will, where reasonably possible, try to give you advance reasonable notice at your email address on record. Such modified Terms of Service will become effective upon the earlier of (i) your continued use of the GUVI service with actual knowledge of such modified Terms of Service, or (ii) thirty days from publication of such modified Terms of Service on this page or the GUVI website. Your use of the GUVI service is also subject to the GUVI Privacy Policy, which explains how we treat your personal information, and provides information about our data protection practices. Any use of any of our GUVI fee-based subscription offerings is bound by these Terms of Service plus any additional terms and conditions which will be made available in a separate agreement agreed to by you, and those additional terms become part of your agreement with GUVI if you access that GUVI service. By signifying your acceptance of these Terms of Service or making any use of the GUVI service, you signify your acceptance of these Terms of Service in effect at the time of your use. If you are an individual acting as a representative of a corporation or other legal entity which wishes to use the GUVI service, then you represent and agree that you have the authority to accept these Terms of Service on behalf of such corporation or other legal entity and that all provisions of these Terms of Service will bind that corporation or other legal entity as if it were named in these Terms of Service in place of you.From time to time, We may update these Terms to clarify our practices or to reflect new or different practices, such as when We add new features, and GUVI reserves the right in its sole discretion to modify and/or make changes to these Terms at any time. If We make any material change to these Terms, We will notify You using prominent means such as by email notice sent to the email address specified in Your Account or by posting a notice through Our Services. Modifications will become effective on the day they are posted unless stated otherwise.
+
+Candidate: “Candidate” means an individual a User invites to access the GUVI service.
+
+User: “User” or “Recruiter” means those individuals having registered accounts with a user identification name and password.
+
+Guvi Services: “GUVI services” means the software for GUVI coding challenges and user interface software used to recruit and screen software developers that is hosted by GUVI hosting service provider and made available to you pursuant to these Terms of Service.
+
+Students: “Students” to connect with independent contractor instructors (the “Instructors”, collectively with Students, the “Users”) who provide live and recorded instruction, tutoring, and learning services (the “Courses”) via Our Services. The Services include, without limitation, facilitating and hosting Courses and supporting materials, and taking feedback from Users.
+
+Full Stack Developer Course: Our IIT-M Pravartak Certified Full Stack Development Course with AI Tools offers a pinnacle of real-time learning and expert mentorship. Harness our AI-powered platforms for round-the-clock project guidance and customized interview preparation. From exciting hackathons to insightful webinars and a supportive community, this course offers it all, with learning options in Tamil, Kannada, Hindi, and English. Step into the Full-stack development industry with confidence and a network of industry leaders to back you.1-on-1 Mock Interviews with Industry Experts,Learn AI tools to Code faster, better, and more precisely,Live online classes and Lifetime Access to Recorded Sessions,Advance in Coding with 100+ Hours of Industry-Relevant Practical Projects,Unlock Your Career Potential with Our Placement Guidance,EMI options available(Upto 12 months),Unlimited access to Programming Practice Platforms with 1500+ Problem Statements.Earn Full-stack development certifications including IIT-M Pravartak, NSDC, GUVI, and more, validating proficiency in prominent programming languages and frameworks.
+
+Duration of Full Stack Developer Course: Online Live Batch: 3 Months (weekday online live) / 5 Months (weekend online live)
+
+Capstone Project: Capstone Project, the participants are required to build their own application by the end of the course which can be added to their GitHub profile. With an emphasis on learning by doing, the bootcamp course helps participants working on building their application from the 1st week itself. At the end, the participant builds his own application understanding the software development process, code review process, and also learns the best practices in coding.
+
+MEAN and MERN STACK: MEAN - MongoDB, ExpressJs, AngularJs & NodeJs. MERN - MongoDB, ExpressJs, ReactJs & NodeJs.
+
+Mobile Hacking Course: Master key mobile hacking techniques and technologies from scratch through this comprehensive online mobile hacking course with global certification. Learn to secure mobile devices and networks with self-paced learning and emerge as a skilled mobile security expert with a strong footing in the ethical hacking domain.Mobile phones nowadays are a goldmine of private, sensitive data that need utmost protection against potential security threats, malicious viruses and hacking attacks. With this beginner-friendly mobile hacking course, you’ll learn various tools, technologies, and methodologies to evaluate device security, find vulnerabilities and create necessary counterattacks to ensure security.Globally Recognised Certification,Full lifetime access to all content.Access to 4 Gamified Practise Platforms,100% online and Self-paced learning,Dedicated Forum Support to clear all your doubts,7 Days refund Policy.Certificates are globally recognized & they upgrade your programming profile.Certificates are generated after the completion of course. Sharable on LinkedIn. After this course, you will be able to Execute advanced mobile hacking and security techniques,Identify and mitigate mobile-based social engineering attacks, Utilize Termux and other tools for ethical hacking, Understand and protect against mobile app vulnerabilities,Apply reverse engineering to analyze mobile applications, Stay updated with best practices in mobile security.
+
+What knowledge should i need to start Hacking course:Basic knowledge of what hacking is and its use cases with mobiles, The urge to learn and implement various technologies and hacking tools to launch as well as defend from vicious attacks.
+
+Who best fit for Hacker course: Fresher or a student aiming to build a career in Cyber Security, Ethical Hacking, or Mobile App Development,Professionals or security experts looking to upskill or advance their careers by adding Mobile Hacking expertise to their skill set,Any individuals looking to learn about various attacks on mobile phones as well as defend against them.
+
+Average Salary of Hacker: The Average Salary of Mobile Hacker is 6L.
+
+Why learn the Mobile Hacking course?In today's digital landscape, where mobile devices play a crucial role in our personal and professional lives, it is essential to have the knowledge and skills to protect against potential threats. You can easily gain the necessary knowledge, resources, and methodologies by learning this mobile hacking course from GUVI.
+
+What are the benefits of learning Mobile Hacking certification? There are numerous benefits to learning mobile hacking with certification. GUVI provides a globally recognized certificate in mobile hacking, which will significantly boost your career prospects in ethical hacking and cybersecurity domains by showcasing your expertise in mobile hacking and the ways to counter potential attacks. You’ll gain sought-after skills and become an expert in mobile hacking, enabling you to get better job opportunities and higher credibility.
+
+How long does it take to learn Mobile Hacking? The Mobile Hacking Course is completely self-paced, allowing you to complete it at your convenience. Most learners are able to complete it within a few weeks, depending on their dedication and prior knowledge. However, consistent practice across a couple of months is needed to completely master the course learnings.
+
+UI/UX Design Program:The classes are focused on project-based learning and encouraged to work on real-time projects. This Program incorporates the most trending design tools focusing on industry expectations directing you to Fortune 500 companies.Learners enrolled in the UI UX Design course are eligible to take advantage of our Placement Guidance.The demand for UI UX Designers is increasing day by day. UI UX Job is ranked 6th on Glassdoor’s “Top 25 highest-paying entry-level jobs”. Everything is becoming digital in this era, which means most product or service-based companies require a UI UX Designer for their needs. That's why the demand & the average salary for a UI UX Designer are increasing every year.A program designed by Subject-Matter Experts,₹21 Lakhs Highest Salary,Placement Guidance,EMI options available,LIVE classes + Lifetime recorded videos,175% Highest Hike,NASSCOM approved program with Government-approved Certification,500+ Hiring Partners.The UI UX course duration will be 3 months.
+
+Can doubt clarified in Phone call? Our 24x7 support team is always within your reach, where you can clarify your doubts within 24 hours timespan. In addition, you also have GUVI Forum where you can ask your doubts and get them clarified.
+
+UI/UX Job Roles:UX Designer,UI Designer,UX/UI Designer,UX Researcher,UX Writer,UX Architect,UX Strategist,Product Designer,Product Manager.
+
+UI/UX course Duration: The UI UX course duration will be 3 months
+
+Salary of UX/UI Designer:The average salary of an entry level UI/UX Designer is ₹6,11,905 / year.
+
+UI/UX Eligibility Criteria:Working Professionals who want to start their career in UI UX Domain,Graduates interested in learning UI UX to get their first job,Students aspiring to become a UX UI Designer.
+
+DevOps Course: DevOps unites software development and IT operations, ensuring seamless integration throughout the entire service lifecycle - from design to production support. At GUVI, DevOps program with NSDC Certification equips you with the skills to master this innovative approach. You'll explore in-depth the fundamentals of DevOps, learning to optimize processes and tool utilization across various corporate environments. This comprehensive program includes hands-on training with top tools like Git, Jenkins, Docker, and Kubernetes. With personalized placement guidance and expert mentorship included, GUVI prepares you to excel and lead in the rapidly booming industry.At its core, DevOps is a set of cultural philosophies, tools & practices that assist companies in building, testing, and deploying software & services more reliably at a faster rate. Traditionally, IT had two separate teams in an organization- The Development team & Operation team. Under a DevOps model, software development & operations are not isolated; but rather synced in a rhythm for continuous delivery/continuous integration.
+
+What System Requirements do you need to complete the DevOps Online Course? The minimum system requirement you need to pursue this DevOps course: Processor- I5/I7,Ram8GM & above HDD,500GB & above or SSD(preferred)
+
+Why to choose DevOps in Guvi? Designed for Working Professionals & graduates,Helps You Build an enriched Portfolio that resonates with recruiters,Mentor-guided projects,Live Online Classes Ask-me-Anything Sessions,Community-driven Hackathons,NSDC approved partner,Value-added sessions on Soft skills,EMI Options Available, Classes available in both English & தமிழ்,Personalized Feedback on Assignments,Instant Doubt clearing sessions with Mentors.
+
+Add-On Features in DevOps:(1)Top 5 Development AI Tools-Get hands-on with cutting-edge AI tools like Alva AI assistant, code lab, Kubiya, AWS Code Guru, and Sysdig.(2)Communication Sessions-Enhance your professional communication skills for the tech industry.(3)Resume Preparation-Receive expert guidance to create a compelling resume that stands out to employers.(4)Portfolio Building with Wix-Craft a professional online presence to showcase your projects and skills.(5)Preparation for Placement-Intensive support to ensure you're fully prepared for job interviews.(6)Access to Python Premium Course-Expand your programming skills with our advanced Python course.
+
+
+Advantage of DevOps Certification:NSDC & GUVI Certification in DevOps,Identify as a DevOps Engineer, Site Reliability Engineer (SRE), Release Manager, Automation Engineer, Cloud Engineer/Architect, Containerization Specialist & more. Globally recognized certifications,Complement your abilities in Interviews, Projects a DevOps career growth.
+
+Program Fee for DevOps:The prgram fee is ₹94,999 inclusive of GST.Course duration is 3 months for weekday batch / 5 months for weekend batch.
+
+Business Analysis and Marketing Analytics with AI Tools: Business & Marketing Analytics is a pivot for transforming your business objectives into measurable actions! Identify, Leverage & Improvise dramatically with accurate business & marketing analytics and boost your career and business to benefit everyone. Business and Marketing  Analytics  with Artificial Intelligence Tools will help to gaze a wealth of insight into your marketing performance with the right tools and techniques in Analytics. This leading-edge Technological Program delivers the top-notch analytical skills that will enable you to stand out in the current business & marketing industry. Also Leveraging AI tools in the curriculum will make you stand out best fit into the current job & skill market. Curated by Tech Professionals at GUVI and instructed by the industry’s best Subject-matter Experts, this Certification Program incorporates pedagogical tools focusing on industry expectations and trends and provides Placement Guidance.
+
+Why Business and Marketing Analytics with AI Tools?In the data-driven world, massive amounts of data are collected on the requirements and behaviour of consumers. Business analytic tools can be used to tailor the marketing campaigns to the consumer’s expenditure, habits and preferences leveraging the best of all channels.
+
+Data Science: Data Science combines AI, coding, and analytics to solve real-world problems. With data-driven decision-making on the rise, skilled Data Scientists are in demand. Diverse opportuntity in Finance, healthcare, e-commerce, and all major industries use data-driven decision making.
+
+Selenium Automation Testing Course: Acquire exponential growth in software automation by mastering in-demand skills like Selenium, Python, Jenkins, Jmeter, API Testing, and more. This Certification Course will assist you in procuring a 360-degree view of automation technology. Get into professional career focusing on the quality of Product & Process development with hands-on software automation training.This leading-edge Technological Program delivers the top-notch automation skills imbibed in the current software industry for evaluating product quality and assurance. Curated by subject matter experts at GUVI- instructed by the industry’s best Technical Experts & Founders(Ex-Paypal Employees), this Certification Program imparts all-rounder skills in automation testing. This program: Automation Testing with Selenium incorporates pedagogical tools focusing on industry expectations that will direct you to the jobs in Fortune 500 companies.
+
+Why Automation Testing? Industry Trends represent an overall transition to automation. The global automation testing market size is anticipated to grow by $28.8 billion by 2024 at a Compound Annual Growth Rate(CAGR) of 18%, as per reports from Markets And Markets report. That leads to a 40% annual growth in Automation Testing job roles in varied industries.
+
+Code of Conduct: Blocked Content. GUVI has the right, but not the obligation, to remove or block Content from the GUVI service that it determines in its reasonable discretion to be in violation of these Terms of Service, to be unlawful, offensive, threatening, libelous, defamatory, obscene or otherwise objectionable, that violates any party's intellectual property or that is detrimental to the quality or intended spirit of the GUVI service. GUVI also has the right, but not the obligation, to limit or revoke the use privileges of the account of any User or Candidate who posts such Content or engages in such behavior.
+
+Disagreements: You alone are responsible for your interaction with other Users and Candidates via the GUVI service. If you have a dispute with one or more Users or Candidates or if you disagree with the results of a Challenge Report, your sole remedy is to cease using the GUVI service. You irrevocably and forever release GUVI (and GUVI's officers, directors, agents, subsidiaries, contractors, joint ventures and employees) from claims, demands and damages (actual and consequential) of every kind and nature, known and unknown, arising out of or in any way connected with such disputes.
+
+Copyright Infringers: GUVI does not permit copyright infringing activities through the GUVI service and reserves the right to terminate access to the GUVI service and remove all content submitted by any persons who are found to be repeat infringers. Any suspected fraudulent, abusive, or illegal activity that may be grounds for termination of your use of the GUVI service may be referred to appropriate law enforcement authorities. These remedies are in addition to any other remedies GUVI may have at law or in equity.
+
+Inappropriate Content: GUVI will use common business sense regarding behavior or Content allowed on or through the GUVI service. Examples of unacceptable Content or behavior include: Abuse, harassment, threats, flaming or intimidation of any person or organization. Uploading or sending to other Users or Candidates pornographic, threatening, embarrassing, hateful, racially or ethnically insulting, libelous, or otherwise inappropriate Content. Uploading copyrighted material that is not your own or that you do not have the legal right to distribute, display, and otherwise make available to others. Making unsolicited offers, advertisements, proposals, or sending junk mail (aka spam) to other Users or Candidates. Impersonating another person or pretending to be affiliated with an organization with which you are not affiliated or misrepresenting the extent of your affiliated or role with an affiliated organization or the source, identity or Content transmitted. Engaging in or contributing to any illegal activity or activity that violates others’ rights.
+Use of derogatory, discriminatory or excessively graphic language. Transmitting worms, viruses or harmful software. Disclosing the personal or proprietary information of another person or organization not otherwise permitted by applicable rules or law. Sharing GUVI accounts, User Credentials or Candidate login credentials with any third party or encouraging any other User or Candidate to do so.
+
+
+Termination: GUVI, in its reasonable discretion may terminate your account and/or user login credentials and remove and discard any Content within the GUVI service if GUVI believes that you have violated or acted inconsistently with the letter and spirit of these Terms of Service. You may terminate your account, this Agreement and your right to use the GUVI service at any time and for any reason or no reason, by contacting GUVI user support at info@guvi.in. However, if you have a separate agreement with GUVI which has conflicting terms regarding termination, those terms shall take precedence over this Agreement. After cancellation or termination of your account for any reason, you will no longer have access to your account and all information and Content in your account or that you have stored on the GUVI service may be, but is not required to be deleted by GUVI. GUVI will have no liability for information or Content that is deleted due to the cancellation or termination of your account for any reason.
+
+Ownership, Proprietary Rights: The GUVI service is owned and operated by GUVI. The visual interfaces, graphics, design, compilation, information, computer code, products, software (including any downloadable software), services, and all other elements of the GUVI service provided by GUVI ("Materials") are protected by Indian copyright, trade dress, patent, and trademark laws, international conventions, and all other relevant intellectual property and proprietary rights, and applicable laws. Except for any third party content or Content uploaded by you, all Materials are the copyrighted property of GUVI or its subsidiaries or affiliated companies and/or third party licensors. All trademarks, service marks, and trade names are proprietary to GUVI or its affiliates and/or third party licensors. Except as expressly authorized by GUVI, you agree not to sell, license, distribute, copy, modify, publicly perform or display, transmit, publish, edit, adapt, create derivative works from, or otherwise make unauthorized use of the Materials.
+
+Third Party Websites and Services: The GUVI services may include links to third party web sites or services ("Linked Sites") solely as a convenience to Users and Candidates. GUVI does not endorse any such Linked Sites or the information, material, products, or services contained on other Linked Sites or accessible through other Linked Sites. Furthermore, GUVI makes no express or implied warranties with regard to the information, material, products, or services that are contained on or accessible through Linked Sites. Access and use of Linked Sites, including the information, material, products, and services on Linked Sites or available through Linked Sites, is solely at your own risk.
+
+Disclaimers/ No Warranties & Limitation of Liability:
+EXCEPT AS MAY BE SET FORTH IN ANY SEPARATE SIGNED AGREEMENT BY GUVI AND YOU, THE GUVI SERVICE IS PROVIDED "AS IS" WITH NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS, STATUTORY OR IMPLIED, AS TO THE OPERATION OF THE GUVI SERVICE, OR THE INFORMATION, CONTENT, MATERIALS, OR PRODUCTS INCLUDED ON THE GUVI SERVICE. TO THE FULLEST EXTENT PERMISSIBLE BY APPLICABLE LAW, GUVI AND ITS AFFILIATES, IF ANY, DISCLAIM ALL WARRANTIES, EXPRESS, STATUTORY, OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. FURTHER, GUVI AND ITS AFFILIATES DO NOT WARRANT THE ACCURACY OR COMPLETENESS OF THE INFORMATION, TEXT, GRAPHICS, LINKS OR OTHER INFORMATION CONTAINED IN THE GUVI SERVICE. SOME JURISDICTIONS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES, SO THE ABOVE LIMITATIONS MAY NOT APPLY TO YOU. EXCEPT AS MAY BE SET FORTH IN ANY SEPARATE SIGNED AGREEMENT BETWEEN GUVI AND A YOU, GUVI DOES NOT WARRANT THAT THE GUVI SERVICE WILL BE AVAILABLE AT ANY TIME OR FROM ANY PARTICULAR LOCATION, WILL BE SECURE OR ERROR-FREE, THAT DEFECTS WILL BE CORRECTED, OR THAT THE GUVI SERVICE IS FREE OF VIRUSES OR OTHER POTENTIALLY HARMFUL COMPONENTS. NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED FROM GUVI OR THE GUVI SERVICE SHALL CREATE ANY WARRANTY NOT EXPRESSLY STATED IN THESE TERMS OF SERVICE.EXCEPT AS MAY BE SET FORTH IN ANY SEPARATELY SIGNED AGREEMENT BETWEEN GUVI AND YOU, NEITHER GUVI NOR ITS AFFILIATES WILL BE LIABLE, UNDER ANY THEORY OF LAW, FOR ANY INDIRECT, INCIDENTAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES, INCLUDING, BUT NOT LIMITED TO LOSS OF PROFITS OR, BUSINESS INTERRUPTION, AND/OR LOSS OF INFORMATION OR DATA. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATIONS AND EXCLUSIONS MAY NOT APPLY TO YOU. NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED HEREIN, GUVI'S MAXIMUM AGGREGATE LIABILITY TO YOU FOR ANY CAUSES WHATSOEVER, AND REGARDLESS OF THE FORM OF ACTION, WILL AT ALL TIMES BE LIMITED TO THE GREATER OF (i) THE AMOUNT PAID, IF ANY, BY YOU TO GUVI FOR THE GUVI SERVICE IN THE SIX (6) MONTHS PRIOR TO THE ACTION GIVING RISE TO LIABILITY OR (ii) ONE HUNDRED DOLLARS. Indemnification You agree to indemnify and hold GUVI Incorporation, its affiliated companies, suppliers, partners, officers, contractors and employees harmless from any claim or demand made by any third party due to or arising out of (i) your actions in using the GUVI service, (ii) a claim that you, or any third party using your Credentials, infringed any intellectual property or other right of any person or organization using the GUVI service, or (iii) the violation of these Terms of Service by you or any third party using your Credentials. GUVI reserves the right, at our own expense, to assume the exclusive defense and control of any matter for which you are required to indemnify us, and you agree to cooperate with our defense of these claims. This indemnity shall not apply if a third party uses your Credentials due to an act or omission of GUVI.
+
+Modifications to Fee Structure: Prices of all fee-based GUVI services are subject to change. If they do change, the changes shall only take effect for any subsequent subscription periods you choose to purchase.
+
+Miscellaneous: These Terms of Service will remain in full force and effect while you use the GUVI service. Those terms that can continue to operate after you stop using the GUVI service (including without limitation your Content license to GUVI service and the General Terms in this Section), will survive after you stop using the GUVI service.
+
+Statute of Limitations. You agree that regardless of any statute of law to the contrary or any claim or cause of action arising out of or related to use of GUVI services or the Terms of Service must be filed within one (1) year after such claim or cause of action arose or be forever barred. Notices: You agree that GUVI may provide you with notices, including those regarding changes to the Terms of Service, by email, regular mail or by posting on the website hosting the GUVI services.
+
+Waiver/Severability: The failure of GUVI to exercise or enforce any right or provision of the Terms of Service shall not constitute a waiver of such right or provision. If any provision of the Terms is found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court should endeavor to give effect to the parties' intentions as reflected in the provision, and the other provisions of the Terms of Service shall remain in full force and effect. Assignment. You may not assign your account to the GUVI service or any rights and licenses granted hereunder and such any assignment by you will be null and void.
+
+Survivability: All sections of these Terms that by their respective nature should survive the cancellation or termination of these Terms of Service shall survive the termination or cancellation of these Terms of Service. You agree that breach of these provisions will cause irreparable harm and that accordingly GUVI may seek injunctive relief in addition to any other legal remedies under these Terms of Service at law or equity. No Third Party Beneficiaries. You agree that except as otherwise expressly provided for in these Terms of Service, there shall be no third party beneficiaries to the Terms of Service.
+
+Choice of Law/Forum: These Terms of Service (including any additional terms, conditions, policies and agreements incorporated herein) are the entire agreement between GUVI and you regarding the GUVI service. Any dispute arising from or related to these Terms of Service shall be subject to the ruling of an applicable court of competent jurisdiction, shall be settled by binding arbitration in County and administered by the Government and conducted by a sole arbitrator in accordance with Commercial Arbitration Rules. The Federal Arbitration Act, shall govern the arbitration to the exclusion of state laws inconsistent therewith or that would produce a different result, and any court having jurisdiction thereof may enter judgment on the award rendered by the arbitrator. Except as may be required by law or to the extent necessary in connection with a judicial challenge, or enforcement of an award, neither a party nor the arbitrator may disclose the existence, content, record, or results of an arbitration. Fourteen (14) calendar days before the hearing, the parties will exchange and provide to the arbitrator: (a) a list of witnesses they intend to call (including any experts) with a short description of the anticipated direct testimony of each witness and an estimate of the length thereof and (b) pre-marked copies of all exhibits they intend to use at the hearing. Deposition for discovery purposes shall not be permitted.
+
+Contact Us: GUVI's Grievance Officer shall undertake all reasonable efforts to address your grievances at the earliest possible opportunity. For contact-Grievance Officer- Mr.Muruganantham, Address-IITM Research park - phase 2, module #9, 3rd floor, D block, Kanagam Rd, Tharamani, Chennai, Tamil Nadu, India. 600113. 
+
+Visit us in Chennai: IITM Research park - phase 2, module #9, 3rd floor, D block, Kanagam Rd, Tharamani, Chennai, Tamil Nadu 600113.
+
+Visit us in Noida: A11, HCL Corporation Pvt. Ltd, Block A, Sector 3, Noida, Uttar Pradesh 201307.
+
+Our team to help: corporate@guvi.in, Phone Call us to resolve your queries 8072588592. Reach out to us on muruganantham@guvi.in, in case of any queries.
+
+Still have queries? Contact Us, Request a Callback. An expert from the admissions office will call you in the next 24 working hours. You can also reach out to us at cs@guvi.in or +91-9736097320.
+
+
+Refund Policies: All eligible courses purchased on GUVI can be refunded within 7 days. For whatever reason, if you are unhappy with a course, you can request a refund, provided the request meets the guidelines in our refund policy. Certain restrictions may apply and some purchases may only be eligible for credit refunds. For more information regarding our refund policy, please see below. While our 7-day refund policy is to allow students to learn risk free, we must also protect our instructors from fraud and provide them a reasonable payment schedule, so we will not process refund requests received after the refund window. The refund amount will be transferred to the payment method used by you while purchasing the course. We reserve the right, in our sole discretion, to limit or deny refund requests in cases where we believe there is refund abuse, including but not limited to the following:(1) A significant portion of the course has been consumed or downloaded by a student before the refund was requested.(2) Multiple refunds have been requested by a student for the same course.(3)Excessive refunds have been requested by a student.(4)Users who have their account banned or course access disabled due to a violation of our Terms will not be eligible to receive a refund. We do not grant refunds for any subscription services after 7 days. These refund restrictions will be enforced to the extent permitted by applicable law. Since the payment for the bundle was processed by the third-party vendor, we do not have the transaction on file and cannot initiate a refund for you. Please contact the third-party vendor directly to request a refund.Refunds are processed within 7 working days from the date you fill out the refund form, which will be sent to your email by our team. To request a refund, please contact us at info@guvi.in or reach out to your course coordinator via email or phone, providing your details and the reason for the refund.
+Please visit this link https://www.guvi.in/courses to view our course library.
+
+
+Course Completion certificate: To get certified in a course, you need to successfully complete all quizzes and submissions (if applicable) with 100% progression.
+
+Login Issue: Please clear your browser history and try again. If the issue persists, log out and log back in, then try again.Please refresh your browser (CTRL + SHIFT + R for Windows, CMD + SHIFT + R for Mac) and try again. Also, consider trying a different browser.
+
+Quiz Attempt: Please ensure you complete the quiz with the correct answer. You can attempt the quiz an unlimited number of times.
+
+Download Certificate: Please follow these steps: Go to your profile -> Edit your name -> Refresh your browser (CTRL + F5) -> Regenerate your certificate.
+You need to click on the 'Get Certified' option at the end of the course modules in the table of contents. It will only be displayed after you complete all the lessons with 100% progress. The certificate should automatically download. Please check your downloads folder, the certificate will download as a PDF file. For better results, try using Google Chrome.
+
+Any other Foreign Language Courses are offered: We sincerely apologize for the inconvenience. We are committed to offering courses in as many regional languages as possible. Please send your request to info@guvi.in.
+
+
+Guvi Uniqueness: You will be lucky to find quality courses on GUVI. I must say that I was really lucky to get courses at such a low and discounted price. I got more than 9 hours of video and around 20 more resources to gain knowledge of programming. GUVI provides a wide variety of courses both technical and non-technical. I suggest GUVI is the best choice."
+
+What makes GUVI different : It provides vernacular courses which make it easy to understand & practice platforms like CodeKata & WebKata, all these helped me improve my practical programming skills in the front end, back end. I highly recommend it if you want to get started with something new. I have opted for a combo-course that starts with the basics of the popular technologies and made me a pro in its domain... Codekata is very damn helpful to crack placements because it improved my efficiency in coding... we just need to be persistent and that’s all it takes. I am very happy to encounter GUVI!"
+
+3 EdTech Products: As of now, 3 EdTech Products on GUVI are eligible for advertising income in the affiliate program.(1) Zen class career programs (2) GUVI Tech courses (self-paced) (3) HackerKid gamified learning platform for kids.
+
+
+Advertising Income: If the user makes a purchase through your affiliate code/link then you will be eligible for the income. you will get advertising income for each eligible GUVI EdTech product that is purchased through your affiliate code/link within the attribution period. if the user makes multiple purchases on the eligible GUVI products through your affiliate code/link, then you will receive the ad income. There is no fee associated with GUVI’s affiliate program. You can register yourself for free to become an affiliate. Register now. You will be eligible for advertising income if the user through your promotion/referral code makes a purchase within the order attribution period of 30 days. This affiliate program operating agreement (this "Agreement") is made between you ("You") and GUVI Geek Pvt. Ltd. (“GUVI”/"We"/"Us"). Neither Impact Tech, Inc. nor any of its corporate affiliates are parties to this Agreement. (1) Description of the Program The purpose of the Program is to permit you to advertise GUVI Products on your site or your network and to earn advertising income for Eligible Purchases made by your end users. The GUVI Products that qualify for advertising income are: (1) ZEN CLASS career programs
+(2) ZEN Lite program (3) GUVI Self-paced premium courses (including individual courses & premium pass)(4) HackerKID gamified coding platform for kids.
+In order to facilitate your advertisement of GUVI Products, we may make available to you data, images, text, link formats, videos, links, and other linking tools, and other information in connection with the Program ("Content"). Content specifically excludes any data, images, text, or other information or content relating to products offered on any site other than the GUVI Site. We will pay you advertising income on eligible Purchases made upon GUVI products as mentioned in section 1. In the event any excess payment has been made to you for any reason whatsoever, we reserve the right to adjust or offset the same against any subsequent advertising income payable to you under this Operating Agreement. Subject to the exclusions set forth below, an “Eligible Purchase” occurs when (a) a customer clicks through your referral link on your site or on your network to the GUVI Site; (b) during a single Session that the customer adds a qualifying GUVI Product to his or her shopping cart and places the order for that GUVI Product no later than 30 days following the customer’s initial click-through; or (c) the GUVI Product is paid for by, the customer. A “Session” begins when a customer clicks through a referral Link on your site to the GUVI website and ends upon the first occur of the following: (x) 30 days elapse from that click; (y) the customer follows a referral Link to the GUVI website that is not your referral Link. We will compute your advertising income right after the refund period from the Eligible Purchases made on the GUVI EdTech Products online by the end user. The payout is withheld aligning with the refund policy offered to the end user for their purchase of GUVI qualifying EdTech Products. The payout for each eligible purchase (after refund period) will be made by the end of the calendar month. For eligible purchase of GUVI’s Tech Courses by the end user through your referral link, the advertising income payable to you is inclusive of all taxes including applicable service tax or goods and services tax. For eligible purchase of GUVI’s Zen Class Career Programs by the end user through your referral link, the advertising income payable to you is exclusive of all taxes such as applicable service tax or goods and services tax. For eligible purchase of GUVI’s HackerKid product by the end user through your referral link, the advertising income payable to you is a fixed bounty & it is inclusive of all taxes including applicable service tax or goods and services tax, Background, Application: To apply to become an affiliate, you must complete the affiliate application provided by the Company. We reserve the right to accept or reject any application at our sole discretion. Approval: Upon our review and approval of your application, you will receive notification of your acceptance into the Program. This Agreement will be effective as of the date of acceptance. Affiliate Obligations, Promotion: As an affiliate, you agree to promote the GUVI’s products or services in a lawful and ethical manner. You will be provided with unique affiliate links, banners, or other promotional materials to facilitate your marketing efforts. Compliance: You agree to comply with all applicable laws, regulations, and guidelines in your promotional activities, including but not limited to, those related to email marketing, online advertising, and data privacy. Brand Guidelines: You will adhere to the Company's brand guidelines and refrain from engaging in any activities that may harm the Company's reputation or brand image. Prohibited Activities: You shall not engage in any misleading, deceptive, or fraudulent activities, including but not limited to, false advertising, spamming, or unauthorized use of intellectual property. Commission Structure & Advertising Income, Commission Rates: You will be eligible to earn a commission based on the purchases made through your affiliate links or promotional efforts. The commission rates will be revised across products periodically and you can refer to the latest commission rates here: ZEN CLASS career programs: 7% of product price (commission rate will be calculated after GST deduction),ZEN Lite programs - 7.5% of product price (commission rate will be calculated after GST deduction),GUVI self-paced Tech Courses - 15% of product price, HackerKID Courses - 7% of product price (commission rate will be calculated after GST deduction).
+
+ZEN CLASS commission eligibility : Zen class consists of two stages - the preboot session and the mainboot session. The Preboot session serves as a trial class, during which learners pay an initial enrollment fee that is refundable. Upon expressing interest, learners proceed to the mainboot session. Commission eligibility is contingent upon learners advancing to the mainboot stage. Additionally, a 60-day refund window is provided for the preboot session
+Tracking and Reporting: We will track the purchases generated through your unique affiliate links and provide you with access to reporting tools to monitor your performance and earnings. Payment: Commissions (advertising income) will be paid according to the payment schedule specified by the Company. Payments will be made in the currency determined by the Company and delivered through the payment method chosen by you during the application process.
+Intellectual Property, Trademarks and Copyrights: The Company grants you a limited, non-exclusive, non-transferable license to use its trademarks, logos, and other promotional materials solely for the purpose of promoting the Company's products or services under this Agreement. Ownership: All intellectual property rights in the Company's trademarks, logos, and promotional materials remain the exclusive property of the Company. You shall not claim any ownership rights or misuse the Company's intellectual property in any way. Termination, Effect of Termination: Upon termination, you shall immediately cease using all promotional materials, affiliate links, and any references to the Company. All rights and obligations under this Agreement will terminate except for those that, by their nature, survive termination. With the effect of Termination, If there are any pending payments, then GUVI reserves the right to proceed forward or cease any pending payment at its sole discretion, based on the grounds of termination. Confidentiality, Confidential Information:  During the course of your participation in the Program, you may have access to confidential information of the Company, including but not limited to sales data, customer information, marketing strategies, and pricing. You agree to maintain the confidentiality of such information and not disclose it to any third party without the prior written consent of the Company, except as required by law. Limitation of Liability, Disclaimer: The Company makes no warranties or representations regarding the Program, its products or services, or the potential earnings of affiliates. The Program is provided on an "as is" and "as available" basis, without any express or implied warranties of any kind. Limitation of Liability: In no event shall the Company be liable to you or any third party for any indirect, consequential, incidental, special, or punitive damages arising out of or in connection with this Agreement or your participation in the Program, even if advised of the possibility of such damages. Indemnification, Indemnity: You agree to indemnify, defend, and hold harmless the Company, its officers, directors, employees, and agents from and against any claims, liabilities, losses, damages, costs, and expenses (including reasonable attorneys' fees) arising out of or in connection with your participation in the Program, breach of this Agreement, or violation of any applicable laws or regulations. Governing Law and Jurisdiction, Governing Law: This Agreement shall be governed by and construed in accordance with the laws of [Jurisdiction], without regard to its conflict of laws principles. Jurisdiction: Any legal action, suit, or proceeding arising out of or relating to this Agreement shall be brought exclusively in the state or federal courts located in [Chennai, Tamilnadu] and the parties hereby consent to the personal jurisdiction and venue of such courts.
+13. Policies and Pricing
+Customers who buy qualifying GUVI products through this Affiliate Program are customers of the GUVI Site with respect to all activities they undertake in connection with the GUVI Site. Accordingly, as between you and us, all pricing, terms of sale, rules, policies, and operating procedures concerning customer orders, customer service, and product sales set forth on the GUVI Site will apply to those customers, and the same may be changed at any time.
+14. Entire Agreement
+14.1 Entire Agreement: This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior discussions, negotiations, and agreements, whether oral or written.
+
+Amendments: Any amendments or modifications to this Agreement will be notified to you in writing when you log in & You will also be notified through an email so that you can accept and proceed further with the affiliate program. Please carefully review this Agreement before participating in this Affiliate Program. By participating, & signing up for this Affiliate Program, you acknowledge that you have read, understood, and agree to be bound by the terms and conditions set forth herein.
+
+GUVI-HCL:GUVI-HCL, backed by IIT-M, IIM-A, and HCL, is India’s top tech-driven EdTech platform for learning in regional and global languages. With 3M+ learners worldwide, it offers personalized online learning, upskilling, and job opportunities.
+GUVI (Guvi Geek Network Private Limited) is generally well-regarded as an online platform for tech skill development, particularly for coding and related fields. Many users praise the structured courses, knowledgeable instructors, and the availability of courses in multiple languages, including Tamil. However, some users have reported concerns about placement support, particularly regarding geographical limitations.
+Positive aspects highlighted by users: • Structured and comprehensive courses: Users appreciate the well-organized curriculum covering essential topics in various tech fields like Full Stack Development, UI/UX design, and Data Science. • Knowledgeable and approachable instructors: Users have reported positive experiences with instructors who explain complex concepts clearly and are responsive to queries.• Hands-on projects and practical application: GUVI's emphasis on hands-on projects allows users to apply learned concepts, which significantly enhances their skills.• Multi-language support: The availability of courses in languages like Tamil is seen as a significant advantage, making learning more accessible for a wider audience.• Supportive learning environment: Many users have reported positive experiences with GUVI's support team, who are friendly, responsive, and provide assistance with doubts and career guidance. • Placement support and career guidance: GUVI provides support for interview preparation, resume refinement, and connections with potential employers. • Positive reviews for specific courses: Users have specifically mentioned positive experiences with Full Stack Development, UI/UX Design, and Data Science courses.• Company recognition and incubation: GUVI is officially registered as an EdTech company and incubated by institutions like IIT-M.
+
+Drawback: Some users have reported concerns about the geographical limitations of placement support, particularly regarding face-to-face interviews in specific locations. Overall, GUVI appears to be a well-regarded platform for tech skill development, with a focus on structured learning, practical application, and supportive mentorship. However, users should be aware of the potential limitations regarding placement support in specific locations.
+
+Several other Awards: GUVI has received several awards and recognitions, including being named a Guinness World Record Holder through AI-for-India 1.0 for the most users taking an online computer programming lesson in 24 hours. They were also recognized as the Most Trusted Vernacular Edutech Brand by Zee digital and were included in HolonIQ's list of 100 Most Promising Edtechs (South Asia). Additionally, GUVI was awarded the "Best Online Personalized Learning Platform" by Entrepreneur India. They were also recognized as the "Tech Startup of the Year" at the TN Young Leadership Summit & Awards 2024 presented by FICCI. GUVI was also named the "Leading Upskilling Company of the Year" at the 29th Elets World Education Summit in Delhi.
+Here's a more detailed breakdown: • Guinness World Record: GUVI achieved a Guinness World Record for the "most users taking an online computer programming lesson in 24 hours" through their AI-for-India 1.0 initiative.• Zee Digital Award: They were recognized as the "Most Trusted Vernacular Edutech Brand" by Zee Digital. • HolonIQ Recognition: GUVI was featured in HolonIQ's list of the "100 Most Promising Edtechs (South Asia)".• Entrepreneur India Award: GUVI received the "Best Online Personalized Learning Platform" award from Entrepreneur India.• FICCI Award: They were honored with the "Tech Startup of the Year" award at the TN Young Leadership Summit & Awards 2024. • Elets World Education Summit Award: GUVI was named the "Leading Upskilling Company of the Year" at the 29th Elets World Education Summit. • TNSDC Selection: GUVI was selected as the top EdTech company by TNSDC as part of their "Naan Mudhalvan" initiative.
+• UBS Forums Recognition: GUVI was recognized as the "Best GenAI Training Partner" and "Best Partner - New Hire Training" by UBS Forums.• Empire Forums Recognition: GUVI was recognized as the "Best Partner - Technology Training" by Empire Forums.
+
+Guvi with IIT: GUVI, an IIT-Madras incubated startup, focuses on providing free tech skill training, particularly for women, through initiatives like their "AI-for-Women" program. They also have a referral program where users can earn rewards for successful referrals. Additionally, GUVI is involved in a project to develop a blockchain solution for tracking charitable donations, aiming to increase transparency and trust in charitable giving.
+Here's a more detailed look at GUVI's charitable initiatives: • Empowering Women in Tech: GUVI's "AI-for-Women" initiative aims to empower women by providing them with free access to tech skills training. They have successfully trained over 30,000 women through this program. • Referral Program: GUVI's referral program allows users to earn rewards by inviting friends to join their platform. Successful referrals can lead to rewards like Amazon vouchers and other prizes. • Blockchain for Charity: GUVI is exploring the use of blockchain technology to create a transparent system for tracking charitable donations. This aims to improve accountability and build trust in the process of giving. • Other Initiatives: While not explicitly charity-focused, GUVI's overall mission to provide accessible tech education can be seen as a form of social good. They also collaborate with various organizations like Google, AWS, and IITs, further expanding their reach and impact.
+
+Guvi Products: GUVI offers a variety of products focused on tech education and skill development, including interactive coding platforms, online courses, and an IDE. Their platforms include CodeKata for general programming, WebKata for web development, and SQLKata for database management. They also provide a platform for debugging and an online IDE for code execution. GUVI's courses cover a range of topics, from programming languages like Python to AI and machine learning, and are available in multiple languages, including English and various Indian languages.
+
+Debugging: A series of programs curated by industry experts to help users learn debugging techniques.
+Online Courses: GUVI offers a wide range of online courses in various tech fields, including programming languages (Python, etc.), AI, and machine learning.
+These courses are designed for both beginners and experienced professionals and are available in multiple languages. They also offer specialized courses like a Deep Learning Fundamentals course and a ChatGPT course. GUVI hackathons frequently involve the use of GitHub for project submission and collaboration. Participants in GUVI-organized hackathons are typically required to upload their completed projects to GitHub and then submit the corresponding GitHub repository link as part of their entry. This process allows for: • Version Control: Participants can manage their code, track changes, and revert to previous versions if needed.• Collaboration: Teams can work together on a single project, merging contributions from multiple members.
+• Submission and Evaluation: The GitHub link serves as the official project submission, allowing judges to review the code, project structure, and functionality. Examples of GUVI hackathon projects found on GitHub include: • Full-stack applications: Such as backend APIs built with Express and MongoDB, and frontends using ReactJS. • Specific functionalities: Like a chess game developed using HTML, CSS, and JavaScript.• API integrations: Projects that interact with external APIs, for instance, a Pokemon API integration to display data. GUVI's emphasis on GitHub aligns with industry standards for software development and project management, providing participants with practical experience in using a widely adopted platform.
+
+Corporate Programs: GUVI offers corporate training programs designed to bridge talent gaps and enhance the skills of company professionals. These programs are customizable and scalable, allowing businesses to address specific needs and adapt to changing requirements. GUVI provides training in various domains, including soft skills, industry-specific tech skills, and AI-powered assessments. Here's a more detailed look at GUVI's offerings for companies:(1) Customizable and Scalable Training:• GUVI provides tailored learning paths for different roles and adapts to evolving business needs.• Businesses can design learning suites that address specific skill gaps within their workforce.(2) Diverse Skill Development:• Soft Skills: GUVI offers training in areas like time management, communication, leadership, teamwork, and problem-solving.• Industry-Specific Tech Skills: The platform provides training in technologies like DevOps, Data Science, Full-stack development, Business Analytics, Data engineering, and UI/UX.• AI-Powered Assessments: GUVI uses AI-powered platforms to assess skill application and identify areas for improvement.(3)Expert Mentorship and Resources:• GUVI boasts a large pool of industry experts and trainers who guide learners.• They provide access to a rich library of self-paced videos and premium content.(4)Corporate Hiring Solutions:• GUVI helps optimize the hiring process by providing access to pre-qualified candidates.• They offer zero-cost talent acquisition, reducing both time and expenses for companies.
+(5) Examples of Specific Programs- • DevOps with NSDC Certification: Equips professionals with the skills to master DevOps principles and tools like Git, Jenkins, Docker, and Kubernetes.• Business Intelligence Analyst Course: Trains professionals in data analysis, SQL, Tableau, and visualization techniques.• Full Stack Development Program: Covers JavaScript, HTML, CSS, Java, Data Structures, MongoDB, and more. • Artificial Intelligence and Machine Learning Course: Focuses on AI, Deep Learning, NLP, and machine learning model building.(6)Additional Benefits: • Placement Guidance: GUVI provides placement support for professionals seeking new opportunities.• Project-Based Learning: Programs often include hands-on projects to reinforce learning.• Vernacular Upskilling: GUVI offers training in multiple languages to cater to diverse learners. By leveraging GUVI's corporate training programs, companies can effectively upskill their workforce, address talent gaps, and stay ahead in today's competitive landscape.
+
+HackerKID: HackerKID, designed by GUVI, an IIT-Madras and IIM-Ahmedabad incubated company, helps today’s kids become tomorrow’s developers. It aims to impart high-quality coding skills to budding coders ages between 7-17 years. HackerKID’s advanced gamified environment for young kids provides interactive coding games infused with intriguing challenges, coins, badges and communities that guarantee unlimited fun and kid-friendly learning. HackerKID is a safe, child-friendly online coding platform designed to teach programming through fun, interactive Java projects for kids. With structured lessons, built-in coding environments, and real-time feedback, HackerKID makes learning Java engaging and accessible for kids aged 7 and above. Whether you’re exploring easy java projects for kids or diving into more advanced challenges, HackerKID guides learners step by step using clear explanations and colorful visuals. It’s not just about teaching programming. It’s about building future problem solvers and innovators. This gamified platform by GUVI provides interactive coding games, challenges, and a fun learning environment for kids to develop coding skills. Your coding journey has to be rewarding, literally. As you achieve coding milestones by clearing challenges and difficult levels, win awards and unlock badges to show who’s the ultimate code king! Kids LOVE the HackerKID experience! So do the parents, who witness unbelievable growth in their kid’s coding skills while having so much fun!
+
+HackerKID Quick course: HackerKID’s Quick Courses offer short-term LIVE coding classes for kids aged 7-17 years, seamlessly blending fun and coding to deliver an enriching experience for our young learners.
+
+Turtle play: Learn to play Python games online with Turtle's unique Block coding puzzles. Explore an interactive journey and become a young programmer.
+Join the adventure with Turtle and discover the exciting world of Python games. Dive into interactive challenges through cool block codes that sharpen your thinking skills. What's more? Earn coins, XPs, certificates, leaderboard rankings, and much more! Learn Python through games with Turtle and master the art of computer coding in a fun, playful way! To begin with follow on-screen instructions and drag and drop block codes like 'import turtle' in the playground. Check your work under the 'code' section and see your final result under the 'output' section to match the desired output given under the instructions.
+complete block code task in turtle and set them as challenges. Share them with your friends and inspire a sincere attempt from their end while opening a coding pathway. every challenges conquered is a step closer to mastering block coding. you can start exploring Turtle with our free trial that includes the first ten levels for free, perfect for getting a taste of the coding adventures ahead. However, you need to purchase our premium subscription to access further levels. Turtle's unique blend of block coding challenges, interactive puzzles, and creative tasks, specifically designed for young learners, makes up for an engaging and unique experience. Turtle enhances problem-solving, logical thinking, and creativity, making it a valuable tool for kids to learn Python. Sign up on Turtle's platform to play Python games online, designed for easy learning and fun. Turtle's gamified approach allows kids to earn Python coding skills through engaging games and challenges. The 'playground' is the interactive space where kids apply block codes to solve puzzles and see their code in action. Turtle primarily offers block coding puzzles and building projects in a playful environment. Turtle offers up to 100 levels in the premium version, with 10 levels available in the free trial. The block codes used in Turtle include seven varieties: logic, math, text, lists, color, variables, and functions. The codes help towards a rich and fulfilling coding experience. Turtle rewards your progress with certificates! Successfully complete 15 levels or their multiples, and earn a certificate to showcase your coding achievements. Kids aged 7-17, especially those in grades 5 & 6, can enjoy learning coding with Turtle's interactive platform. After completing challenges, kids can share them with friends and compete for higher leaderboard rankings.
+Subscribe to HackerKID’s YouTube channel to never miss the coding tricks, hacks, parental guides, tutorials, & other exclusive content to make your coding journey more fun, enriching and effective!
+
+Java Projects: Introducing kids to coding through Java projects for kids is one of the best ways to make programming both fun and educational. Java’s robustness, paired with engaging hands-on projects, equips young learners with the skills they need to build, create, and innovate in the digital world. Whether you’re a parent eager to nurture tech-savvy skills, a teacher introducing coding to your students, or a young beginner excited to dive into development, Java projects offer a solid foundation for a lifelong coding journey. Java is a computer language used to create games, apps, and websites. It’s like giving step-by-step instructions to a computer so it can do fun things like show pictures, play sounds, or solve problems.Explore coding across various domains through a meticulous, kid-friendly curriculum combined with exciting coding games, challenges, and interactive videos!
+
+Robotics Workshops: GUVI's workshops focus on hands-on learning where kids assemble and code robots, covering topics like line following, light following, and obstacle avoidance.
+
+Age Appropriateness: GUVI caters to a wide age range, from younger children with gamified experiences to older kids with more advanced robotics and coding concepts.
+
+Expert Guidance: GUVI emphasizes learning from top coding experts, ensuring quality instruction and guidance for young learners.
+
+Difference between codekata and webkata: CodeKata to become strong in DSA & competitive coding. WebKata to practice real-world web development and build projects.
+
+How much does the Mobile Hacking certification Course Cost? The Mobile Hacking certification course comes at a competitive price that ensures everyone can learn at a very affordable price.
+
+In which languages are GUVI courses available? GUVI provides courses in English, Tamil, Hindi, Telugu, and Kannada, making learning accessible to a wider audience.
+
+Is the Mobile Hacking course difficult to learn? No. The Mobile Hacking course is designed for both beginners and professionals, breaking down complex hacking techniques and topics into easily understandable modules.
+
+What is GUVI? GUVI stands for Grab Your Vernacular Imprint Geek Network Private Limited is a leading online learning and skills development company, incubated by IIT Madras and IIM Ahmedabad.
+
+Is free courses available in GUVI? Yes, GUVI offers a variety of free learning opportunities across programming, AI, data engineering, web development, and more.
+
+What courses does GUVI offer? GUVI offers programs in Python, Java, Web Development, Data Science, Machine Learning, Cloud Computing, Full-Stack Development, AI, and more.
+
+Is Zen Class online or offline? Zen Class is fully online with live mentor-led classes.
+
+Tell me about GUVI? Grab Your Vernacular Imprint Geek. GUVI is an online learning platform incubated by IIT Madras and IIM Ahmedabad. It provides self-paced courses and career programs in programming, data science, AI/ML, web development, and more. What makes GUVI unique is its focus on vernacular learning—offering content in regional languages like Tamil, Hindi, and Telugu. GUVI also provides certifications and placement support through its Zen Class programs.
+
+How do I join guvi? You can join GUVI very easily. Here are the steps, Create an Account on GUVI. Go to the official website: guvi.in, Click Sign Up.You can register using, Your Email & Password, or Google / GitHub login.
+
+
+What is the salary of Full-stack Developer? GUVI's full-stack developer course fees vary by program; one example, the Zen Class Full-Stack Java Developer Course, had a discounted fee of ₹94,999 (including GST), while another mentions a 3-month Online Full Stack Development course for ₹89,999.
+
+What is IIT-M certification in GUVI? GUVI collaborates with IIT Madras to provide certification for certain Zen Class programs, making the credential highly valuable.
+
+Is free courses available in guvi? Yes, GUVI offers a variety of free learning opportunities across programming, AI, data engineering, web development, and more.
+
+Enroll in a Course: Click on any course you like. For free courses, just click Enroll for Free and start learning immediately. For paid courses, complete the payment process.
+
+Why is Course X not available in Y language? We sincerely apologize for the inconvenience. We are committed to offering courses in as many regional languages as possible. Please send your request to info@guvi.in.
+
+Explore Free courses and Paid Courses: Once signed in, go to the Courses section  GUVI Courses. You’ll find, Free Courses (Python, Java, AI, Web Development, etc.). Premium Programs like Zen Class that come with mentorship and placement support.
+
+How do I get certified for a course? To get certified in a course, you need to successfully complete all quizzes and submission  with 100% progression.
+
+Who is the founder of GUVI? GUVI was founded by Arun Prakash M, his late wife Sridevi Arunprakash, and Balamurugan SP. Arun Prakash M serves as the company's CEO.  
+
+Does GUVI offers placement? GUVI offers one of the industry's leading Project Based Career Programs that promises Placement Guidance on completing the program.
+
+Can I get a job after completing an online AI course? You can certainly secure a job after completing an artificial intelligence bootcamp as many programs are designed specifically to provide career-building skills that can easily transfer from the classroom to the workplace.
+
+Is GUVI Online or Offline? GUVI's Java Beginners Course is an ideal start for learning Java programming, offering a path from beginner to expert. This self-paced, online course provides quality guidance and a prestigious certificate, perfect for upskilling in Java.
+
+Is GUVI has paid course? GUVI offers online courses in various categories, including Autocad, Blockchain, Business and Management, Databases, Cloud Computing, Marketing and Mechanical Design, and Data Science etc. Further, their courses are divided into three categories: Paid courses, Combo Courses and Free courses
+
+what is Mission of GUVI?  Its mission is to become the leading platform for skilling, offering high-quality, easy-to-understand courses in vernacular languages. We aim to bridge the gap for those without access to elite learning materials and those struggling with English as a medium of instruction, ensuring everyone has the opportunity to learn, grow, and succeed in their career.
+
+what is GUVI vision? Our vision is to empower individuals across the globe by providing affordability and accessibility for upskilling, breaking down language barriers, and fostering a community of skilled professionals.
+
+Does GUVI provide EMI options for Zen Class? Yes, GUVI offers EMI payment options for Zen Class career programs.
+
+Can school students use GUVI? Yes, GUVI offers coding and AI programs tailored for school students to introduce them to technology.
+
+Can I practice coding for free on GUVI? Yes, platforms like CodeKata, WebKata, and Debugging exercises are free to practice.
+
+Is GUVI owned by HCL? Yes, GUVI is owned by the HCL Group, which acquired a majority stake in the edtech platform in September 2022. As an HCL Group company, GUVI provides technical education and skilling programs, often in regional languages, to address the technology skill gap. 
+
+Can beginners join GUVI? Yes, GUVI has beginner-friendly courses and step-by-step learning paths suitable for students with no prior coding experience.
+
+Does GUVI provide EMI options for Zen Class? Yes, GUVI offers EMI payment options for Zen Class career programs.
+
+Does GUVI offer support in vernacular languages? Yes, GUVI is unique in offering courses in Tamil, Hindi, Telugu, and Kannada, making technical education more inclusive.
+
+Which course is best in GUVI? GUVI does not have a single "best" course; the best course for you depends on your career goals and interests, but highly-rated options include their Full Stack Development with AI Tools, Data Science, and Advanced Cyber Security & Ethical Hacking courses, often supported by industry expert mentorship and up-to-date curricula from institutions like IIT-M Pravartak. 
+
+Does GUVI have mobile app? Yes, GUVI has a mobile app available on Android for learning on the go.
+
+Does GUVI provide NSDC certification? Yes, some GUVI courses are certified by NSDC..
+
+Is GUVI suitable for career switchers? Yes, GUVI’s Zen Class is designed for freshers, working professionals, and career switchers who want to enter tech roles.
+
+How do I get GUVI certificate for a course? To get certified in a course, you need to successfully complete all quizzes and submissions with 100% progression.
+
+How do I delete my GUVI account? You may terminate your account, this Agreement and your right to use the GUVI service at any time and for any reason or no reason, by contacting GUVI user support at info@guvi.in.
+
+What is meant by Zen class? Zen Class is GUVI’s flagship career program offering intensive training, mentorship, and placement assistance in Full Stack Development, Data Science, and more.	
+
+What is the customer care number of GUVI courses? For more information, visit GUVI's official website or contact +91-97360-97320.
+
+Why is GUVI not working? Clear browser cache, Sometimes caching issues in your web browser can cause problems. Clear your browser's cache and cookies and then try accessing the website again or use different browser.
+
+What is the full form of GUVI? GUVI means Grab Your Vernacular Imprint Geek Network Private Limited is a leading online learning and skills development company, incubated by IIT Madras and IIM Ahmedabad.
+
+Is a GUVI certificate valid? Yes, GUVI certificates are valid and recognized, particularly those co-branded with institutions like IIT Madras, IIT-Madras Pravartak, and Autodesk. GUVI is a trusted platform with many learners and corporate partners, and its certificates are designed to be job-ready, providing specialized skills for the tech industry.  
+
+Can GUVI help me become a data scientist? Yes, GUVI offers a Data Science and AI Zen Class with end-to-end training, projects, and placement support.
+
+Does GUVI provide NASSCOM certification? Yes, GUVI Zen Class courses have NASSCOM certification which is valued in the IT industry.
+
+Can I switch from a free course to Zen Class? Yes, learners can upgrade to Zen Class from self-paced/free courses for career-focused training.
+
+Can I pay for GUVI Zen Class after getting a job? Yes, GUVI offers placement-linked payment options for eligible learners.
+
+Does GUVI conduct mock interviews? Yes, GUVI conducts multiple rounds of mock interviews with industry mentors.
+
+What courses does GUVI offer? GUVI offers programs in Python, Java, Web Development, Data Science, Machine Learning, Cloud Computing, Full-Stack Development, AI, and more.
+
+Does GUVI provide scholarships? Yes, GUVI offers merit-based and need-based scholarships.
+
+Does GUVI have a YouTube channel? Yes, GUVI runs an active YouTube channel with tutorials, career guidance, and webinars.
+
+Does GUVI organize webinars? Yes, GUVI organizes free webinars and workshops on trending tech topics.
+
+Can I become a mentor in GUVI? Yes, experienced industry professionals can apply to become mentors on GUVI.
+
+Does GUVI collaborate with colleges? Yes, GUVI partners with colleges for skill development programs and placement training.
+
+Does GUVI provide alumni network access? Yes, GUVI Zen Class graduates join a strong alumni network that helps with career growth.
+
+Does GUVI provide certificates with IIT logos? Yes, some GUVI programs are IIT-certified and include the IIT-Madras logo.
+
+Can I join GUVI while working full-time? Yes, GUVI’s flexible learning model allows full-time employees to upskill in parallel.
+
+Does GUVI provide AI/ML specialization? Yes, GUVI offers specialized courses and Zen Class programs in Artificial Intelligence and Machine Learning.
+
+Does GUVI provide blockchain courses? Yes, GUVI has blockchain and Web3-related courses in its platform.
+
+How can I apply a coupon code in GUVI? You can apply coupon codes during checkout before making the payment.
+
+Does GUVI provide a free trial? Yes, GUVI provides some free trial courses and demo classes for Zen Class programs.
+
+Can I request a refund from GUVI? Yes, GUVI has a refund policy for Zen Class programs under specific terms and conditions.
+
+How can I contact GUVI support? You can reach GUVI via their official website chat, email to support@guvi.in or call phone support.
+
+Can I pause my GUVI course? Yes, in self-paced learning you can pause anytime; Zen Class sessions follow a schedule.
+
+Does GUVI provide job-ready projects? Yes, GUVI provides capstone projects that mimic real industry use-cases.
+
+Can I switch my GUVI batch timing? Yes, learners can request batch transfers based on availability.
+
+Does GUVI provide lifetime access? Yes, GUVI self-paced courses come with lifetime access.
+
+Can I become a GUVI campus ambassador? Yes, GUVI runs campus ambassador programs for students.
+
+Does GUVI provide referral rewards? Yes, GUVI has a referral program where learners get discounts or rewards.
+
+Does GUVI support learners outside India? Yes, international learners can access GUVI courses online.
+
+Does GUVI provide free resources? Yes, GUVI offers free micro-courses, blogs, and YouTube tutorials.
+
+Can I showcase GUVI projects on LinkedIn? Yes, GUVI encourages learners to share projects on LinkedIn.
+
+Does GUVI provide resume templates? Yes, GUVI shares job-ready resume templates.
+
+Does GUVI HCL provide career counseling? Book a free career counselling session with us & clarify all your queries for a successful future.
+
+Does GUVI provide mock coding contests? Yes, GUVI conducts mock coding contests regularly.
+
+Does GUVI provide interview coding challenges? Yes, GUVI includes coding challenges to simulate interviews.
+
+Does GUVI offer peer-to-peer learning? Yes, GUVI has active peer learning communities.
+
+Does GUVI provide doubt-clearing sessions? Yes, GUVI provides live doubt-solving sessions with mentors.
+
+Does GUVI provide internship certificates? Yes, GUVI issues internship certificates for eligible learners.
+
+Does GUVI provide workshops? Yes, GUVI frequently organizes online and offline workshops.
+
+Does GUVI provide blockchain training? Yes, GUVI offers blockchain and Web3-related courses.
+
+Does GUVI provide AR/VR courses? Yes, GUVI has beginner-friendly AR/VR and Unity courses.
+
+Does GUVI provide IoT training? Yes, GUVI offers IoT courses with practical projects.
+
+Does GUVI provide robotics courses? Yes, GUVI includes robotics-related training modules.
+
+what is minimum age to sign up in GUVI? The GUVI service is available to person only after completion of thirteen years.
+
+Does GUVI offer Salesforce training? Yes, GUVI provides Salesforce developer training.
+
+Does GUVI provide SAP training? Yes, GUVI has SAP functional and technical courses.
+
+what is CodeKata? A platform for practicing general coding skills and interview preparation.
+
+what is WebKata? Focuses on building front-end and back-end development skills through hands-on web development problem statements.
+
+what is SQLKata? A tool for learning and mastering SQL concepts and relational database management.
+
+Does GUVI provide Power BI courses? Yes, GUVI offers Power BI and business intelligence courses.
+
+Does GUVI provide Tableau training? Yes, GUVI provides Tableau courses for data visualization.
+
+Does GUVI provide Excel training? Yes, GUVI covers advanced Excel for analytics and business.
+
+Does GUVI provide R programming courses? Yes, GUVI teaches R programming for data science.
+
+Does GUVI provide statistics training? Yes, GUVI covers statistics as part of data science.
+
+Can GUVI help in becoming a full-stack developer? Yes, GUVI offers a Full-Stack Development Zen Class with MERN stack training and placement support.
+
+Does GUVI provide DSA (Data Structures & Algorithms) training? Yes, GUVI has structured DSA preparation modules.
+
+Does GUVI help with LeetCode-style problems? Yes, GUVI includes competitive coding practice similar to LeetCode.
+
+Does GUVI provide aptitude training? Yes, GUVI provides aptitude and logical reasoning practice.
+
+Does GUVI provide communication training? Yes, GUVI includes soft skills and communication training.
+
+Does GUVI provide robotics courses? Yes, GUVI includes robotics-related training modules.
+
+Does GUVI provide one-to-one mentorship? Yes, GUVI offers personalized mentorship programs.  
+
+Does GUVI provide AWS training? Yes, GUVI has AWS Cloud Practitioner and Solutions Architect courses. 
+ 
+Does GUVI provide Azure training? Yes, GUVI teaches Microsoft Azure cloud technologies.
+  
+Does GUVI provide GCP training? Yes, GUVI includes Google Cloud training modules. 
+
+Does GUVI provide AI tools training? Yes, GUVI covers modern AI tools and automation platforms.  
+
+Does GUVI provide Generative AI courses? Yes, GUVI has courses on Generative AI (GenAI).  
+
+Can I download GUVI course materials? You need something like a download manager to download video. If you have internet in home then you can access courses for lifetime.
+
+How is GUVI different from other EdTech platforms? Its vernacular-first approach, IIT or IIM incubation, and corporate partnerships make it unique in democratizing tech education.
+
+What kind of projects do learners build at GUVI? Projects range from chatbots and e-commerce sites to machine learning models and real-time dashboards—often showcased in portfolios for hiring.
+
+What kind of training does GUVI HCL offer? Programming Languages: Python, Java, C++, JavaScript. Web Development: Full-stack, front-end, back-end. Data Science, machine learning, AI. Mobile App Development: Android, iOS.
+
+Does GUVI provide ChatGPT training? Yes, GUVI provides practical training on ChatGPT and LLMs. 
+
+Can I get a job after completing GUVI Zen Class? Yes, if you complete the program and meet the skill requirements, GUVI provides placement opportunities in top companies.
+
+what are the regional languages GUVI offer? Yes, GUVI teaches in Tamil, Hindi, Telugu, and Kannada besides English.
+
+What kind of projects will I work on in GUVI? Projects include web applications, data science models, AI tools, and real-world coding challenges.
+ 
+Does GUVI provide prompt engineering training? Yes, GUVI covers prompt engineering for AI systems.
+  
+Does GUVI provide RPA training? Yes, GUVI has Robotic Process Automation training.
+  
+Does GUVI provide SAP FICO training? Yes, GUVI covers SAP FICO modules. 
+ 
+Does GUVI provide HR analytics training? Yes, GUVI includes HR analytics programs.  
+
+Does GUVI provide DSA training? Yes, GUVI provides Data Structures & Algorithms training.  
+
+Does GUVI provide competitive programming courses? Yes, GUVI has CP courses for coding competitions.  
+
+Does GUVI provide CP contests? Yes, GUVI organizes live competitive programming contests. 
+ 
+Does GUVI provide GATE preparation? Yes, GUVI supports students preparing for GATE exams. 
+
+Does GUVI offer doubt clearing in local languages? Yes, mentors can clarify doubts in Tamil, Hindi, and Telugu for better understanding.
+
+Can GUVI help in learning competitive programming? Yes, GUVI’s CodeKata is designed to improve competitive programming and problem-solving skills.
+
+Does GUVI provide live coding practice? Yes, platforms like CodeKata, WebKata, and Debugging exercises provide hands-on live practice.
+
+Does GUVI have a YouTube channel? Yes, GUVI runs an active YouTube channel with tutorials, career guidance, and webinars.
+
+Does GUVI organize webinars? Yes, GUVI organizes free webinars and workshops on trending tech topics. 
+
+Does GUVI provide UPSC CSAT coding guidance? Yes, GUVI indirectly supports CSAT aspirants with logic and aptitude training.
+
+Does GUVI provide courses in Hindi? Yes, GUVI provides courses in Hindi language.  
+
+Does GUVI provide courses in Tamil? Yes, GUVI provides courses in Tamil.  
+
+Does GUVI provide courses in Telugu? Yes, GUVI provides courses in Telugu.  
+
+Does GUVI provide courses in Kannada? Yes, GUVI provides courses in Kannada.  
+
+Does GUVI provide courses in Malayalam? Yes, GUVI provides courses in Malayalam.  
+
+Does GUVI provide courses in Bengali? Yes, GUVI provides courses in Bengali.  
+
+Does GUVI provide courses in Marathi? Yes, GUVI provides courses in Marathi.  
+
+Does GUVI provide courses in Gujarati? Yes, GUVI provides courses in Gujarati. 
+ 
+Does GUVI provide courses in Odia? Yes, GUVI provides courses in Odia.  
+
+Does GUVI provide courses in Punjabi? Yes, GUVI provides courses in Punjabi.  
+
+Does GUVI provide morning batches? Yes, GUVI has morning batches for early learners.  
+
+Does GUVI provide evening batches? Yes, GUVI offers evening classes for working professionals.
+  
+Does GUVI provide late-night batches? Yes, GUVI provides late-night classes for global learners. 
+ 
+Does GUVI provide flexible timings? Yes, GUVI allows learners to choose convenient class timings.  
+
+Does GUVI provide Kaggle competition guidance? Yes, GUVI mentors learners in Kaggle data science competitions. 
+ 
+Does GUVI provide GitHub training? Yes, GUVI provides GitHub portfolio building training.  
+
+Does GUVI provide Docker training? Yes, GUVI teaches Docker containerization.  
+
+Does GUVI provide Kubernetes training? Yes, GUVI provides Kubernetes orchestration training.  
+
+Does GUVI provide Terraform training? Yes, GUVI trains learners in Terraform for infrastructure automation.  
+
+Does GUVI provide Jenkins training? Yes, GUVI provides Jenkins CI/CD training.  
+
+Does GUVI provide Ansible training? Yes, GUVI teaches automation with Ansible.  
+
+Does GUVI provide Puppet training? Yes, GUVI trains learners in Puppet configuration management.  
+
+Does GUVI provide Chef training? Yes, GUVI provides Chef automation training. 
+
+Does GUVI provide GCP BigQuery training? Yes, GUVI provides Google BigQuery training. 
+
+Does GUVI provide red team training? Yes, GUVI provides red team and attack simulation training.  
+
+Does GUVI provide blue team training? Yes, GUVI offers blue team defensive training.  
+
+Does GUVI provide purple team training? Yes, GUVI trains learners in purple team collaboration.
+  
+Does GUVI provide SIEM training? Yes, GUVI provides SIEM tools training.  
+
+Who is the CEO of GUVI? The CEO of GUVI is Arun Prakash M. He is the Founder and CEO of GUVI, an online vernacular edtech platform incubated by IIT-M and IIM-A
+
+what is Geekcoins? GUVI users can use Geekcoins to purchase courses and its useful in CodeKata, WebKata, and Debugging, and redeem coupons from the rewards section.
+
+What is the purpose of GUVI? GUVI IDE is an Integrated Development Environment (IDE) for coding. Allows you to write, edit, run, test, and debug your code. Comes with a built-in debugger to fix code errors. Supports JavaScript, Python, Ruby, and 20+ programming languages.
+
+What free GUVI courses offer certificates? Game Development using PyGame, Robotic Process Automation,Learn Python in Hindi are some of the free certification courses.
+
+Who is the brand ambassador of GUVI? Indian cricketer Smriti Mandhana is the brand ambassador.
+
+Does GUVI provide SOC analyst training? Yes, GUVI trains learners for SOC analyst roles.  
+
+Does GUVI provide flexible learning? Yes, GUVI provides flexible online learning schedules.  
+
+Does GUVI provide hybrid learning? Yes, GUVI provides online and offline hybrid training.  
+
+Does GUVI provide corporate training? Yes, GUVI offers corporate upskilling and training solutions. 
+
+Does GUVI provide startup support? Yes, GUVI supports entrepreneurial learners with startup guidance.  
+
+Does GUVI provide women-only programs? Yes, GUVI offers women empowerment learning programs. 
+ 
+Does GUVI provide global student community? Yes, GUVI learners come from over 100+ countries. 
+
+How does GUVI’s Zero-Cost Hiring process work? GUVI connects companies with pre-vetted, job-ready candidates from its talent pool. Simply fill out the Hire Now form, and we’ll curate a list of candidates that match your hiring needs at no cost.
+
+
+
